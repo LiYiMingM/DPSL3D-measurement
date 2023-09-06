@@ -27,7 +27,7 @@
 
 ## Usage
 ### The dataset can be directly downloaded from the following links.
-DPSL3D-measurement1.0 [GoogleDrive]([https://1drv.ms/f/s!Ak-j_ZC_XxTsgm-incfmvDx-nE0K?e=BuwU5g](https://drive.google.com/drive/folders/1na2IJbPW4mSYdtrdPQg7x7WVGhP_onGu?usp=sharing))
+DPSL3D-measurement1.0 [GoogleDrive](https://drive.google.com/drive/folders/1na2IJbPW4mSYdtrdPQg7x7WVGhP_onGu?usp=sharing)
 
 Note again that by downloading the dataset you acknowledge that you have read the agreement, understand it, and agree to be bound by them. If you do not agree with these terms and conditions, you must not download and/or use the Dataset.
 
