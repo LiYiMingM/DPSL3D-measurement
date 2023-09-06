@@ -99,4 +99,3 @@ The PKU-MVHumans dataset is released under the [CC BY 4.0](https://creativecommo
 
 ## Contact
 - Xiaoyun Zheng (zyun_z@stu.pku.edu.cn)
-
