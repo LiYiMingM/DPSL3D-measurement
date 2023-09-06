@@ -17,7 +17,7 @@
 
   ![colored_mesh (1)](assets/real_dataset.png)
   
-- There are ~3000 image pairs (with 256 × 256 pixels) in simulation training dataset and ~300 image pairs (with 256 × 256 pixels) in simulation test datasets. A single-shot high frequency superimposed phase shifting grating captured by the camera in the case of simultaneous projection of dual projectors is used as the input of the simulation dataset. And the ground truth is the unwrapped phase when the projectors project in turn. Simulation objects are unique Gaussian surfaces with heights ranging from 0 to 60 millimeters.
+- There are ~3000 image pairs (with 256 × 256 pixels) in simulation training dataset and ~300 image pairs (with 256 × 256 pixels) in simulation testing datasets. A single-shot high frequency superimposed phase shifting grating captured by the camera in the case of simultaneous projection of dual projectors is used as the input of the simulation dataset. And the ground truth is the unwrapped phase when the projectors project in turn. Simulation objects are unique Gaussian surfaces with heights ranging from 0 to 60 millimeters.
 
   ![colored_mesh (1)](assets/simulation_dataset.png)
 
@@ -29,7 +29,7 @@
 ### The dataset can be directly downloaded from the following links.
 DPSL3D-measurement1.0 [GoogleDrive](https://drive.google.com/drive/folders/1na2IJbPW4mSYdtrdPQg7x7WVGhP_onGu?usp=sharing)
 
-Note again that by downloading the dataset you acknowledge that you have read the agreement, understand it, and agree to be bound by them. If you do not agree with these terms and conditions, you must not download and/or use the Dataset.
+
 
 ### Dataset format
 ```
@@ -69,6 +69,8 @@ The DPSL3D-measurement dataset is available for non-commercial research purposes
 You agree not to reproduce, modified, duplicate, copy, sell, trade, resell or exploit any portion of the images and any portion of derived data in any form to any third party without author’s prior written permission.
 
 You agree not to further copy, publish or distribute any portion of the Dataset. Except, for internal use at a single site within the same organization it is allowed to make copies of the dataset.
+
+Note again that by downloading the dataset you acknowledge that you have read the agreement, understand it, and agree to be bound by them. If you do not agree with these terms and conditions, you must not download and/or use the Dataset.
 
 Authors reserves the right to terminate your access to the Dataset at any time.
 
