@@ -1,33 +1,34 @@
 # DPSL3D-measurement
 
-
-# PKU-MVHumans
 <div align="center">
 
-<h1> A Multi-View Dataset for High-Fidelity Human Performance Modeling and Rendering </h1>
+<h1> Real and Simulation Dataset for One-Shot 3D Reconstruction of a Dual-Projector System </h1>
 
 <div>
-    <p> <b>Peking University</b> </p>
+    <p> <b>Tsinghua SIGS</b> </p>
 </div>
 
-![colored_mesh (1)](assets/snapshot.png)
+![colored_mesh (1)](assets/overall1.png)
 
 </div>
 
 ## Introduction
 - Our PKU-MVHumans is a versatile human-centric dataset for high-fidelity reconstruction and rendering of human performances from dense multi-view videos. The dataset contains 32 professional players (16 male, 11 females, 5 children), 2 different settings (360-degree panoramic view with 60 cameras, and 270-degree arc with 56 cameras), 4 actions (Dance, Kungfu, Sport, and Fashion Show), 45 sequences and totals around 8.4 million frames of recording.
 
-  ![colored_mesh (1)](assets/PKU-MVHumans.png)
+  ![colored_mesh (1)](assets/real_dataset.png)
   
 - We use 2 categories of datasets where the performers are in different locations and perform with different actions and clothing styles. The collecting environment is a uniformly lighted clean indoor stage.
 
-  ![colored_mesh (1)](assets/camera_position.png)
+  ![colored_mesh (1)](assets/dataset_generation1.png)
 
 - For the 1080P sequences category, the data is captured indoors in a 360-degree panoramic view roughly 6x6m with 60 calibrated Z CAM E2 cameras. It contains 37 sequences at a resolution of 1920×1080. 
 
 - For the 4K-Studio sequences category, the collecting environment is a uniformly lighted clean indoor stage roughly 7x7m with 56 calibrated Z CAM E2 cameras. The 12 cameras are placed regularly on an arc in front of the stage.
 
-  ![colored_mesh (1)](assets/overviews.png)
+  ![colored_mesh (1)](assets/simulation_dataset.png)
+- We use 2 categories of datasets where the performers are in different locations and perform with different actions and clothing styles. The collecting environment is a uniformly lighted clean indoor stage.
+
+  ![colored_mesh (1)](assets/dataset_generation2.png)
 
 ## Updates
 - [08/2023] We release the sample set of HiFi-MVHumans (40\% of the whole data), keeping a hidden testing set for an upcoming challenge. Stay tuned!
