@@ -78,4 +78,4 @@ Authors reserves the right to terminate your access to the Dataset at any time.
 Details about the code and dataset can be found in this paper. 
 
 ## Contact
-- Yiming Li (iyiming21@mails.tsinghua.edu.cn)
+- Yiming Li (liyiming21@mails.tsinghua.edu.cn)
