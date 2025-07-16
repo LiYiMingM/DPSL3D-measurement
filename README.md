@@ -1,4 +1,4 @@
-# DPSL3D-measurement
+# This dataset is the supporting material for the paper Li, Y., Li, Z., Zhang, C., Han, M., Lei, F., Liang, X., ... & Li, X. (2023). Deep learning-driven one-shot dual-view 3-D reconstruction for dual-projector system. IEEE Transactions on Instrumentation and Measurement, 73, 1-14.
 
 <div align="center">
 
@@ -77,6 +77,21 @@ Authors reserves the right to terminate your access to the Dataset at any time.
 
 ## More informarion
 Details about the code and dataset can be found in this paper. 
+## How to Cite
 
+Please cite this paper when using the SL3D-BF dataset:
+
+```bibtex
+
+@article{li2023deep,
+  title={Deep learning-driven one-shot dual-view 3-D reconstruction for dual-projector system},
+  author={Li, Yiming and Li, Zhuang and Zhang, Chaobo and Han, Min and Lei, Fengxiao and Liang, Xiaojun and Wang, Xiaohao and Gui, Weihua and Li, Xinghui},
+  journal={IEEE Transactions on Instrumentation and Measurement},
+  volume={73},
+  pages={1--14},
+  year={2023},
+  publisher={IEEE}
+}
+```
 ## Contact
-- Yiming Li (liyiming21@mails.tsinghua.edu.cn)
+- Yiming Li (lemonymtree@163.com)
